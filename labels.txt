@@ -1,2 +1,0 @@
-0 Flower
-1 Animal
